@@ -5,7 +5,7 @@ It provides sample data and code for reproducing the experimental results.
 
 ## Contents
 - Sample dataset
-- Scripts for computing Cosine, Jaccard, Edit Distance, and Word Overlap similarities
+- Scripts for computing Cosine, Jaccard and Edit Distance
 - Sample outputs and plots
 
 ## Reproducibility
