@@ -6,7 +6,6 @@ It provides sample data and code for reproducing the experimental results.
 ## Contents
 - Sample dataset
 - Scripts for computing Cosine, Jaccard and Edit Distance
-- Sample outputs and plots
 
 ## Reproducibility
 Due to copyright restrictions, only anonymized data samples are shared. Full data available upon request.
